@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `BDO China(ShangHai)`
 - 🌱 I’m currently learning `K8S`,`Go`,`Spring Cloud`
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about add `issues` 😄
+- 💬 Ask me about add `issues` 
 - 📫 How to reach me: zared9802@gmail.com
 - 😄 Pronouns: Geeks
 
