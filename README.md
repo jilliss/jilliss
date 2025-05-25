@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning `K8S`,`Go`,`Solidity`,`hardhat`
+- 🌱 I’m currently learning `Web3j`,`Solidity`,`Hardhat`,`Ethers.js`
 - 💬 Ask me about add `issues` 
 - 📫 How to reach me: zared9802@gmail.com
 - 😄 Pronouns: Geeks
