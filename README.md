@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning `K8S`,`Go`,`Spring Cloud`
+- 🌱 I’m currently learning `K8S`,`Go`,`Solidity`,`hardhat`
 - 💬 Ask me about add `issues` 
 - 📫 How to reach me: zared9802@gmail.com
 - 😄 Pronouns: Geeks
